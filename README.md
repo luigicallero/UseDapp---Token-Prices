@@ -22,11 +22,13 @@ Requirements
 > GIT
 
 https://git-scm.com/downloads
-> For Linux distributions use the following
+
+For Linux distributions use the following
 ```
 sudo apt-get install git
 ```
-> Configure GIT using the following commands:
+
+Configure GIT using the following commands:
 ```
 git config --global user.name "YOUR-USERNAME"
 git config --global user.email "YOUR-EMAIL"
@@ -65,11 +67,23 @@ Open http://localhost:8080 to view it in the browser:
 ![useDapp_initial](https://user-images.githubusercontent.com/58836287/131610505-58d740ee-af08-4127-ba67-532b6906c1df.png)
 
 #
-Adding other token prices:
+Adding UNI token price to our App:
 ===========================
+
+Go to https://www.coingecko.com/ and click for UNI coin
+
+![coingecko_uni](https://user-images.githubusercontent.com/58836287/131666093-a66496e0-8edf-4b87-a90d-b23c1dfc10b9.png)
+
+
+
+On the right side of the page under "Info" you will be able to click and copy the contract address where it says "Contract:" (we will use this contract address in next step)
+
+![coingecko_uniswap_contract](https://user-images.githubusercontent.com/58836287/131666114-00a109c5-2bf2-40b0-ae74-d0d28090486d.png)
+
+
 Go to the folder src/pages and look for the file Prices.tsx
 
-Here we update the file with the token information we want to see the price of:
+Here we update the file with the token information we want to see the price of.
 
 Code added:
  ```
