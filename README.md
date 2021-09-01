@@ -6,7 +6,8 @@ Simple. Robust. Extendable. Testable.
 -----------------------------------------
 > useDapp is a really valuable tool for both junior and experienced developers. It helps backend developer to rely on a tested and agile tool for most frontend features and scenarios. Great benefit for us as developers, is that we can get accurate information for our clients, since useDapp captures any change on the last executed block that could reflect in a change in our DApp. Thus becoming an extraordinary benefit, specially for Defi DApps, where you need the most up to date crypto values.
 
-> In this tutorial I am going to show how to capture the value of native UNISWAP token.
+In this tutorial I am going to show how to capture the value of native UNISWAP token.
+
  ![uni_token](https://user-images.githubusercontent.com/58836287/131611654-2988ba83-d86c-42a2-8620-6fd16311f55e.png)
 
 #
@@ -34,6 +35,7 @@ git config --global user.email "YOUR-EMAIL"
 > Nodejs
  
 Download and Install the recommended version from: https://nodejs.org/en/ 
+
 ![nodejs](https://user-images.githubusercontent.com/58836287/131609738-faa4cce2-3058-4824-b1ca-57b04dc52113.png)
 
 #
@@ -59,6 +61,7 @@ npm start
 ![npm_start](https://user-images.githubusercontent.com/58836287/131610483-080ab8c0-6489-41cf-986f-a9af3d8d42e8.png)
 
 Open http://localhost:8080 to view it in the browser:
+
 ![useDapp_initial](https://user-images.githubusercontent.com/58836287/131610505-58d740ee-af08-4127-ba67-532b6906c1df.png)
 
 #
@@ -88,6 +91,7 @@ I also updated "prices" file to add the uniswap price to the app with the follow
 ![uniswap_price_print](https://user-images.githubusercontent.com/58836287/131611108-ce3332aa-c855-47d7-ac5a-cf467ef1f969.png)
 
 Working perfectly!!! and updating every time there is a change in price (since useDapp checks for updates on every new block)
+
 ![uniswap_price_1](https://user-images.githubusercontent.com/58836287/131609569-ad04de74-dab3-43c7-b1b1-41636c715593.png)
 
 #
