@@ -111,6 +111,6 @@ Working perfectly!!! and updating every time there is a change in price (since u
 #
 Useful Documentation
 =====
-> https://usedapp.readthedocs.io/en/latest}
+> https://usedapp.readthedocs.io/en/latest
 
 > https://www.youtube.com/watch?v=DlSj9E6NP5g&t=3125s
