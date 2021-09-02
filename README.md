@@ -6,9 +6,7 @@ Simple. Robust. Extendable. Testable.
 -----------------------------------------
 > useDapp is a really valuable tool for both junior and experienced developers. It helps backend developer to rely on a tested and agile tool for most frontend features and scenarios. Great benefit for us as developers, is that we can get accurate information for our clients, since useDapp captures any change on the last executed block that could reflect in a change in our DApp. Thus becoming an extraordinary benefit, specially for Defi DApps, where you need the most up to date crypto values.
 
-In this tutorial I am going to show how to capture the value of native UNISWAP token.
-
- ![uni_token](https://user-images.githubusercontent.com/58836287/131611654-2988ba83-d86c-42a2-8620-6fd16311f55e.png)
+In this tutorial I am going to show how to capture the value of UNI Token (native token for the UNISWAP platform).
 
 #
 Requirements
