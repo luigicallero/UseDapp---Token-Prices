@@ -107,10 +107,13 @@ Working perfectly!!! and updating every time there is a change in price (since u
 ![uniswap_price_1](https://user-images.githubusercontent.com/58836287/131609569-ad04de74-dab3-43c7-b1b1-41636c715593.png)
 
 #
-Useful Documentation on useDapp
+Useful Links on useDapp
 =====
+Official Documentation:
 > https://usedapp.readthedocs.io/en/latest
 
+Programming Dapps React js + useDApp with Justyna Broniszewska
 > https://www.youtube.com/watch?v=DlSj9E6NP5g&t=3125s
 
+useDapp example in Action:
 > https://example.usedapp.io/prices
