@@ -109,11 +109,11 @@ Working perfectly!!! and updating every time there is a change in price (since u
 #
 Useful Links on useDapp
 =====
-Official Documentation:
-> https://usedapp.readthedocs.io/en/latest
+>Official Documentation: \
+https://usedapp.readthedocs.io/en/latest
 
-Programming Dapps React js + useDApp with Justyna Broniszewska
-> https://www.youtube.com/watch?v=DlSj9E6NP5g&t=3125s
+>Programming Dapps React js + useDApp with Justyna Broniszewska \
+https://www.youtube.com/watch?v=DlSj9E6NP5g&t=3125s
 
-useDapp example in Action:
-> https://example.usedapp.io/prices
+>useDapp example in Action: \
+https://example.usedapp.io/prices
